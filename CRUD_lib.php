@@ -1,4 +1,3 @@
-
 <?php
 include ("../../connection/phpmysqlconnect.php");
 
@@ -113,7 +112,6 @@ class crud
 		$query->execute($update_value);
 	}
 } // end of class crud added 
-
-// These are new set of comments
+// Abhishek Shetty
 
 ?>
