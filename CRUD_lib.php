@@ -112,6 +112,8 @@ class crud
 		$query = $conn->prepare($update_statement);
 		$query->execute($update_value);
 	}
-} // end of class crud
+} // end of class crud added 
+
+// These are new set of comments
 
 ?>
